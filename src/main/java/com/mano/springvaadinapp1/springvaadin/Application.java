@@ -10,6 +10,7 @@ import org.springframework.boot.autoconfigure
 import org.springframework.context.annotation.Bean;
 @SpringBootApplication
 public class Application {
+    //commit
     private static final Logger log =
             LoggerFactory.getLogger(Application.class);
     public static void main(String[] args) {
